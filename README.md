@@ -1,9 +1,12 @@
 # python-flask-mongo-crud
 * Basic CRUD using python3 , Flask and MongoDB
 
-Steps for running the application: <br />
-`pipenv install` #install
+* Steps for running the application: <br />
 
-`pipenv shell`   #activate
+`pip install pipenv` #Install pip envrionment
 
-`python main.py` #run
+`pipenv install` #Install packages from Pip file
+
+`pipenv shell`   #Activate pip packages
+
+`python main.py` #run app
